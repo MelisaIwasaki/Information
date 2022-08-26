@@ -1,0 +1,2 @@
+# Information
+Algunas informaciones útiles
