@@ -1,13 +1,7 @@
 # Information :technologist:
 Algunas informaciones útiles
 
-
 **"No temo al hombre que ha practicado 10.000 patadas una vez, sino al hombre que ha practicado una patada 10.000 veces."  Bruce Lee**
-
-**"No tengo talentos especiales. Solo soy apasionadamente curioso."  Albert Einstein**
-
-**"Cuanto más sabes, más te das cuenta de que no sabes nada."  Sócrates**
-
 
 ## EMOJI :bulb: 
 
