@@ -1,2 +1,40 @@
-# Information
+# Information :technologist:
 Algunas informaciones útiles
+
+## EMOJI :bulb: 
+
+https://gitmoji.dev
+
+## Páginas con mucho estilo :bulb:
+
+:art: Cuando abrís cualquier página, con el botón derecho -> inspector ( Ctrl+shift+C ), podés ver todo el código.
+
+https://caferati.me/
+
+https://www.seyi.dev/
+
+https://ejosue.com/
+
+https://www.cassie.codes/
+
+http://www.rleonardi.com/
+
+https://lynnandtonic.com/
+
+https://bruno-simon.com/
+
+http://findmatthew.com/
+
+https://dejan.works/
+
+## Videos
+
+"Programador reacciona a los mejores PORTAFOLIOS" Programador X 
+
+https://youtu.be/qq8MHNPu4y4
+
+"Programador reacciona a los mejores PORTAFOLIOS 💼 2.0" Programador X
+
+https://youtu.be/3zWKr5DAvVc
+
+![photo-1640955014216-75201056c829](https://user-images.githubusercontent.com/92184167/187005533-d6801522-0296-4b5f-947a-43202c8bf185.jpg)
