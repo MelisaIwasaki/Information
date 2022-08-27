@@ -5,7 +5,7 @@ Algunas informaciones útiles
 
 https://gitmoji.dev
 
-## Páginas con mucho estilo :bulb:
+## Portafolios con mucho estilo :bulb:
 
 :art: Cuando abrís cualquier página, con el botón derecho -> inspector ( Ctrl+shift+C ), podés ver todo el código.
 
