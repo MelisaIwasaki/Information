@@ -1,8 +1,6 @@
 # Information :technologist:
 Algunas informaciones útiles
 
-**"No temo al hombre que ha practicado 10.000 patadas una vez, sino al hombre que ha practicado una patada 10.000 veces."  Bruce Lee**
-
 ## EMOJI :bulb: 
 
 https://gitmoji.dev
