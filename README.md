@@ -1,6 +1,8 @@
 # Information :technologist:
 Algunas informaciones útiles
 
+**"El juego es la forma más elevada de investigación"  Albert Einstein**
+
 ## EMOJI :bulb: 
 
 https://gitmoji.dev
